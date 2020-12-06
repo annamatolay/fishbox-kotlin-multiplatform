@@ -2,3 +2,8 @@
 /.gradle
 *.imlbox2d
 *.iml
+# Build stuff
+.gradle
+.idea
+build
+gradle
